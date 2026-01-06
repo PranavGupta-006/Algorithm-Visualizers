@@ -3,7 +3,7 @@ import time
 import os
 import numpy
 import pandas
-from binary import bins, steps
+from binaryLogic import bins, steps
 
 
 st.title("Binary Search Visualizer")
