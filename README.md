@@ -1,5 +1,3 @@
-# Algorithm-Visualizers
-
 # Algorithm Visualizers
 
 Algorithm Visualizers is a collection of interactive tools designed to help students understand how algorithms work internally. Instead of only reading code or theoretical explanations, users can observe algorithms step by step through visual representations.
